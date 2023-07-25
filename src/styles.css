@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(241, 158, 158);
+}
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  display: block;
+}
+a {
+  margin: 0px 10px;
+}
+.email-link {
+  margin: 0;
+}
+.butter-tart-photo {
+  display: block;
+  max-width: 50%;
+  border-radius: 10px;
+  margin: 30px auto;
+}
