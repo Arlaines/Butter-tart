@@ -21,7 +21,7 @@ a {
 }
 .butter-tart-photo {
   display: block;
-  max-width: 50%;
+  max-width: 100%;
   border-radius: 10px;
   margin: 30px auto;
 }
